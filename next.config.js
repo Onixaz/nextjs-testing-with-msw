@@ -1,0 +1,1 @@
+module.exports = { images: { domains: ['raw.githubusercontent.com'], formats: ['image/avif', 'image/webp'], }, };

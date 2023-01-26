@@ -1,0 +1,11 @@
+{
+  "extends": ["next/core-web-vitals", "prettier"],
+  "rules": {
+    "object-curly-spacing": [2, "always"],
+    "import/no-anonymous-default-export": "off",
+    "semi": [2, "always"],
+    "curly": "error"
+
+    
+  }
+}
